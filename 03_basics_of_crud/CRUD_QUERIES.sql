@@ -16,3 +16,4 @@ ADD COLUMN breed varchar(20) default 'Maine Coon' not null;
 -- Delete Table
 DELETE 
 FROM Cats 
+
